@@ -1,0 +1,1 @@
+GET     /      controllers.sample.Controller2.index
